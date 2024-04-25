@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/html">
+<head>
+    <meta charset="UTF-8">
+    <title>Student Marks Preditor</title>
+</head>
+<body>
+    <div>
+
+    </div>
+    <div class="Login">
+     <center>
+     <form method="post" action="/predict">
+        <h1>Student Marks Predictor</h1>
+     {% if result %}
+          <p>{{result }}</p>
+     {% endif %}
+
+         <label>Enter study hours</label><br>
+         <input type="text" name="study_hours"><br><br>
+         <input type="submit" value="Predict"><br><br>
+     </form>
+    </center>
+    </div>
+</body>
+</html>
