@@ -10,10 +10,12 @@ Data is analysed using scatter plot.
  Data Preprocessing includes the data cleaning and splitting of data for training and testing.
  # 4) Training of data 
  Training the model using scikit-learn(Linear Regression) which gives the accuracy of 95%.
- # Evaluate the model
+ # 5) Evaluate the model
  Evaluating the model by providing the input as study hours which predicts the marks in percentage.
- # Framework
+ # 6) Framework
  HTML,FLASK
+ # 7) Tools
+ Jupyter,pycharm
  # Results
  ![Screenshot (6)](https://github.com/tanuja-pathak/Student-Marks-Prediction/assets/103842216/110ad1fa-7f40-4de5-ab0c-ae6d7712296b)
 
