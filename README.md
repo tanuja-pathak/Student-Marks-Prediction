@@ -17,16 +17,8 @@ Data is analysed using scatter plot.
  # 7) Tools
  Jupyter,pycharm
  # Results
- ![Screenshot (6)](https://github.com/tanuja-pathak/Student-Marks-Prediction/assets/103842216/110ad1fa-7f40-4de5-ab0c-ae6d7712296b)
+ 
+![Screenshot (15)](https://github.com/tanuja-pathak/Student-performance-Prediction/assets/103842216/96a72584-28aa-46ab-a670-a6d0133206b7)
 
- # Result 1
 
-![Screenshot (9)](https://github.com/tanuja-pathak/Student-Marks-Prediction/assets/103842216/f9ebef6e-e8d9-4a5c-ae99-9287df4fbcd5)
-
-![Screenshot (11)](https://github.com/tanuja-pathak/Student-Marks-Prediction/assets/103842216/68570ebd-ae32-456f-b6b2-afc25d838a7f)
-
-# Result 2
-
-![Screenshot (12)](https://github.com/tanuja-pathak/Student-Marks-Prediction/assets/103842216/7cf7bd17-09e5-4b8b-890d-6fcb992fcc19)
-
-![Screenshot (13)](https://github.com/tanuja-pathak/Student-Marks-Prediction/assets/103842216/dc4ce362-5c72-4edf-92f0-ac952eacf451)
+![Screenshot (16)](https://github.com/tanuja-pathak/Student-performance-Prediction/assets/103842216/7f0da48f-644a-4c86-b41b-a29b63daa088)
