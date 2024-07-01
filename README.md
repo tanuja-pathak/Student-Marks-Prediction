@@ -15,7 +15,7 @@ Data is analysed using scatter plot.
  # 6) Framework
  HTML,FLASK
  # 7) Tools
- Jupyter,pycharm
+ Jupyter, gradio
  # Results
  
 ![Screenshot (15)](https://github.com/tanuja-pathak/Student-performance-Prediction/assets/103842216/96a72584-28aa-46ab-a670-a6d0133206b7)
