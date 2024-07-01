@@ -12,10 +12,10 @@ Data is analysed using scatter plot.
  Training the model using scikit-learn(Linear Regression) which gives the accuracy of 95%.
  # 5) Evaluate the model
  Evaluating the model by providing the input as study hours which predicts the marks in percentage.
- # 6) Framework
- HTML,FLASK
- # 7) Tools
- Jupyter, gradio
+ # 6) Tools
+ JupyterNotebook
+ # Libraies used:
+ Numpy,pandas, matplotlib,seaborn,scikit-learn,gradio
  # Results
  
 ![Screenshot (15)](https://github.com/tanuja-pathak/Student-performance-Prediction/assets/103842216/96a72584-28aa-46ab-a670-a6d0133206b7)
